@@ -1,7 +1,7 @@
 
 
 const Services = () => {
-  return <div> Services app </div>
+  return <div>  </div>
   
 }
 

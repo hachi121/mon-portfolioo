@@ -1,7 +1,7 @@
 
 
 const Work = () => {
-  return <div>Work Page</div>
+  return <div></div>
   
 }
 
